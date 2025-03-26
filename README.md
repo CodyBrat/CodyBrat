@@ -48,8 +48,8 @@ Hi there, I'm Priyabrata Singh! 👋🚀
 💡 "I debug 90% of my problems with **console.log()**. The rest? Stack Overflow. 😎"
 
 📫 **Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyabrata-singh)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/avgnststudent)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-azure-nu.vercel.app/)
 
 ---
 
