@@ -1,6 +1,6 @@
 Hi there, I'm Priyabrata Singh! 👋🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Web+Developer+%7C+Frontend+Designer;React+%7C+TypeScript+%7C+Tailwind+CSS;Building+Showly+%26+TaskFlow+App)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Web+Developer+%7C+Frontend+Designer;React+%7C+TypeScript+%7C+HTML+CSS;Building+Showly+%26+TaskFlow+App)](https://git.io/typing-svg)
 
 ---
 
