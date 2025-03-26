@@ -31,7 +31,7 @@ Hi there, I'm Priyabrata Singh! 👋🚀
 🔥 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=CodyBrat&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyabrata-singh&layout=compact&theme=dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyBrat&layout=compact&theme=dark&hide_border=false)
 
 ---
 
