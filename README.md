@@ -1,13 +1,28 @@
-<h2 align="center">🔥 CodyBrat's GitHub Vibes 🔥</h2>
+# 👾 Hey, I’m CodyBrat  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodyBrat&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" />
-</p>
+> _“Code is my canvas, commits are my brushstrokes.”_
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CodyBrat&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
-</p>
+Welcome to my corner of the internet where bugs turn into features, coffee turns into code,  
+and side-projects multiply faster than I can finish them.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodyBrat&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" />
-</p>
+---
+
+## 🧩 Who am I?
+- 🛠 Full-time **builder of things** (sometimes useful, sometimes just fun).  
+- 🧠 Lifelong **debugger of life**.  
+- 🌌 Dreaming in **JavaScript, TypeScript, and Prisma**.  
+- ⚡ Occasionally moonlighting as a **problem-solver, tinkerer, and caffeine alchemist**.  
+
+---
+
+## 🎮 Current Game: "Leveling Up"
+```yaml
+Class: Developer
+Skills: [JavaScript, React, Node.js, Prisma, MySQL, Express]
+Perks: Quick Debugger, API Architect, Side-Quest Champion
+HP: 100/100
+Mana: ∞ (powered by ☕)
+Quest Log:
+  - [x] Survive merge conflicts
+  - [ ] Build something open-source & awesome
+  - [ ] Reach `git push --force` enlightenment
