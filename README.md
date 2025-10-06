@@ -26,3 +26,12 @@ Quest Log:
   - [x] Survive merge conflicts
   - [ ] Build something open-source & awesome
   - [ ] Reach `git push --force` enlightenment
+```
+<div align="center">
+
+<!-- <img width="400" src="https://github-readme-stats.vercel.app/api?username=Rkx-01&show_icons=true&count_private=true&theme=calm_pink&border_radius=10" alt="github stats" /> -->
+<img width="400" src="https://nirzak-streak-stats.vercel.app/?user=CodyBrat&theme=calm_pink&hide_border=false" alt="github stats" />
+
+<img width="465" src="https://github-readme-activity-graph.vercel.app/graph?username=CodyBrat&theme=redical&bg_color=20232a&hide_border=true&border_radius=15&area=true&custom_title=💻%20Contribution%20Activity%20Graph" alt="activity graph"/>
+
+</div>
