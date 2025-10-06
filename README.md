@@ -1,4 +1,4 @@
-# 👾 Hey, I’m CodyBrat  
+# 👾 Hey, I’m Priyabrata Singh
 
 > _“Code is my canvas, commits are my brushstrokes.”_
 
