@@ -1,4 +1,4 @@
-# 👾 Hey, I’m Priyabrata Singh
+# Hey, I’m Priyabrata Singh
 
 > _“Code is my canvas, commits are my brushstrokes.”_
 
@@ -7,15 +7,15 @@ and side-projects multiply faster than I can finish them.
 
 ---
 
-## 🧩 Who am I?
-- 🛠 Full-time **builder of things** (sometimes useful, sometimes just fun).  
-- 🧠 Lifelong **debugger of life**.  
-- 🌌 Dreaming in **JavaScript, TypeScript, and Prisma**.  
+##  Who am I?
+-  Full-time **builder of things** (sometimes useful, sometimes just fun).  
+-  Lifelong **debugger of life**.  
+-  Dreaming in **JavaScript, TypeScript, and Prisma**.  
 - ⚡ Occasionally moonlighting as a **problem-solver, tinkerer, and caffeine alchemist**.  
 
 ---
 
-## 🎮 Current Game: "Leveling Up"
+##  Current Game: "Leveling Up"
 ```yaml
 Class: Developer
 Skills: [JavaScript, React, Node.js, Prisma, MySQL, Express]
