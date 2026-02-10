@@ -1,6 +1,6 @@
 # Hey, I’m Priyabrata Singh
 
-> _“Code is my canvas, commits are my brushstrokes.”_
+> “Code is my canvas, commits are my brushstrokes.”
 
 Welcome to my corner of the internet where bugs turn into features, coffee turns into code,  
 and side-projects multiply faster than I can finish them.
