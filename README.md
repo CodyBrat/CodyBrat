@@ -1,37 +1,106 @@
-# Hey, I’m Priyabrata Singh
+````md
+<!-- ================= HEADER ================= -->
 
-> “Code is my canvas, commits are my brushstrokes.”
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Priyabrata%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-Welcome to my corner of the internet where bugs turn into features, coffee turns into code,  
-and side-projects multiply faster than I can finish them.
-
----
-
-##  Who am I?
--  Full-time **builder of things** (sometimes useful, sometimes just fun).  
--  Lifelong **debugger of life**.  
--  Dreaming in **JavaScript, TypeScript, and Prisma**.  
-- ⚡ Occasionally moonlighting as a **problem-solver, tinkerer, and caffeine alchemist**.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=🎮+Initializing+Developer+Profile...;⚡+Full-Stack+Developer;🧠+Problem+Solver;☕+Coffee+Powered+Coding+Machine;🚀+Building+Cool+Things" />
+</p>
 
 ---
 
-##  Current Game: "Leveling Up"
+<!-- ================= ANIME DEV CARD ================= -->
+
+## 🧬 Character Profile (Dev Card)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rkx-01/Rkx-01/main/avatar.png" width="160" />
+</p>
+
 ```yaml
-Class: Developer
-Skills: [JavaScript, React, Node.js, Prisma, MySQL, Express]
-Perks: Quick Debugger, API Architect, Side-Quest Champion
-HP: 100/100
-Mana: ∞ (powered by ☕)
-Quest Log:
-  - [x] Survive merge conflicts
-  - [ ] Build something open-source & awesome
-  - [ ] Reach `git push --force` enlightenment
+Alias: "Code Samurai"
+Real Name: Priyabrata Singh
+Class: Full-Stack Developer
+Guild: Open Source ⚔️
+Level: 99 (Grinding...)
+
+Core Stats:
+  Intelligence: ██████████ 100%
+  Debugging:    █████████░ 95%
+  Creativity:   ██████████ 100%
+  Focus:        ████████░░ 85%
+
+Abilities:
+  - ⚡ Lightning Debug
+  - 🔥 API Flame Control
+  - 🧠 Algorithm Vision
+  - 🎯 Precision Coding
+
+Equipment:
+  - 🗡️ VS Code
+  - 🛡️ Git & GitHub
+  - 💎 Prisma ORM
+  - ⚙️ Node.js Engine
+
+Mana Source:
+  ☕ Coffee (Unlimited Supply)
+
+Current Quest:
+  ⏳ Building something legendary
+````
+
+---
+
+## 🎮 Game Dashboard
+
+```diff
++ STATUS: ONLINE 🟢
++ LOCATION: /dev/world
++ MISSION: Build. Break. Learn. Repeat.
 ```
-<div align="center">
 
-<!-- <img width="400" src="https://github-readme-stats.vercel.app/api?username=Rkx-01&show_icons=true&count_private=true&theme=calm_pink&border_radius=10" alt="github stats" /> -->
-<img width="400" src="https://nirzak-streak-stats.vercel.app/?user=CodyBrat&theme=calm_pink&hide_border=false" alt="github stats" />
+---
 
-<img width="465" src="https://github-readme-activity-graph.vercel.app/graph?username=CodyBrat&theme=redical&bg_color=20232a&hide_border=true&border_radius=15&area=true&custom_title=💻%20Contribution%20Activity%20Graph" alt="activity graph"/>
+## 🧠 Skill Tree
 
-</div>
+```text
+Frontend     ██████████
+Backend      █████████░
+Database     █████████░
+DevOps       ██████░░░░
+```
+
+---
+
+## 📊 Live Stats Engine
+
+---
+
+## ⚡ Contribution Matrix
+
+---
+
+```diff
++ Fun Fact:
++ I debug faster than I panic
+
++ Secret Skill:
++ Turning caffeine into scalable systems ☕
+
++ Weakness:
+- Undefined errors at 2 AM
+```
+
+---
+
+## 🌐 Party Up (Connect)
+
+---
+
+## 🧠 Philosophy
+
+> “In the world of code, there are no limits — only iterations.”
+
+---
