@@ -1,42 +1,78 @@
 <div align="center">
 
-<!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
+<!-- ╔═══════════════════════════════════════════════════════════╗ -->
+<!-- ║                  CINEMATIC HEADER                         ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Priyabrata%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Code%20is%20my%20canvas.%20Commits%20are%20my%20brushstrokes.&descSize=16&descAlignY=60&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=280&section=header&text=PRIYABRATA%20SINGH&fontSize=72&fontColor=ffffff&fontAlignY=40&stroke=7c3aed&strokeWidth=2&desc=『%20Code%20is%20my%20canvas%20·%20Commits%20are%20my%20brushstrokes%20』&descSize=17&descAlignY=62&descColor=c4b5fd&animation=fadeIn" />
 
-<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;API+Architect+%26+Debug+Wizard+%F0%9F%A7%99;Caffeine-Powered+Builder+%E2%98%95;Side-Quest+Champion+%F0%9F%8F%86" alt="Typing SVG" />
-</a>
+<!-- ╔═══════════════════════════════════════════════════════════╗ -->
+<!-- ║               ANIMATED ROLE DISPLAY                       ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
 <br/>
 
-<!-- ═══════════════════ BADGES ═══════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=600&color=A78BFA&background=00000000&center=true&vCenter=true&width=700&height=50&lines=⚡+Full-Stack+Developer;🧙+JavaScript+%7C+TypeScript+%7C+React;🏗️+API+Architect+%26+Backend+Engineer;☕+Caffeine→Code+Converter+v2.0;🎯+Side-Quest+Champion+%26+Bug+Slayer;🚀+Building+the+Future%2C+One+Commit" alt="Typing Animation" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=CodyBrat&style=for-the-badge&color=7c3aed&labelColor=0d0d1a&label=PROFILE+VIEWS)](https://github.com/CodyBrat)
-[![GitHub followers](https://img.shields.io/github/followers/CodyBrat?style=for-the-badge&color=7c3aed&labelColor=0d0d1a&logo=github)](https://github.com/CodyBrat)
-[![GitHub stars](https://img.shields.io/github/stars/CodyBrat?style=for-the-badge&color=7c3aed&labelColor=0d0d1a&logo=github)](https://github.com/CodyBrat)
+<br/><br/>
+
+<!-- ╔═══════════════════════════════════════════════════════════╗ -->
+<!-- ║                    SOCIAL BADGES                          ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════╝ -->
+
+[![](https://visitcount.itsvg.in/api?id=CodyBrat&icon=6&color=7)](https://visitcount.itsvg.in)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/CodyBrat?style=for-the-badge&logo=github&logoColor=white&color=7c3aed&labelColor=0d0818&label=FOLLOWERS)](https://github.com/CodyBrat?tab=followers)
+&nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/CodyBrat?style=for-the-badge&logo=github&logoColor=white&color=f59e0b&labelColor=0d0818&label=STARS)](https://github.com/CodyBrat)
+
+<br/>
+
+<!-- ╔═══════════════════════════════════════════════════════════╗ -->
+<!-- ║                  SNAKE ANIMATION                          ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════╝ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodyBrat/CodyBrat/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodyBrat/CodyBrat/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/CodyBrat/CodyBrat/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
+<!-- ╔═══════════════════════════════════════════════════════════╗ -->
+<!-- ║                   ABOUT SECTION                           ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="3D coding animation" />
 
-### `> whoami`
+## 〔 `whoami` 〕
 
-```ts
-const priyabrata: Developer = {
-  alias:      "CodyBrat",
-  pronouns:   "he/him",
-  location:   "India 🇮🇳",
-  passion:    "Building things that matter (and some that don't)",
-  fueled_by:  ["☕ Coffee", "🎵 Lo-fi beats", "🐛 Bugs to squash"],
-  currently:  "Leveling up, one commit at a time",
-  philosophy: "Ship it. Fix it. Ship it again.",
+```typescript
+const priyabrata = {
+  alias      : "CodyBrat 🎭",
+  title      : "Full-Stack Sorcerer",
+  location   : "India 🇮🇳  →  Internet 🌐",
+  timezone   : "GMT+5:30 (IST)",
+
+  stack: {
+    frontend : ["React", "TypeScript", "Next.js", "Tailwind"],
+    backend  : ["Node.js", "Express", "Prisma", "MySQL"],
+    tools    : ["Git", "VS Code", "Postman", "Docker"],
+  },
+
+  currently  : "Turning caffeine into working software ☕→💻",
+  mantra     : "Ship it. Break it. Fix it. Ship it again. 🚀",
+
+  funFacts: [
+    "I name my branches like they're novels 📖",
+    "My debugger and I have a complicated relationship 🐛",
+    "console.log() is my love language 💬",
+  ],
 };
 ```
 
@@ -44,118 +80,184 @@ const priyabrata: Developer = {
 
 ---
 
-<!-- ═══════════════════ RPG CARD ═══════════════════ -->
+<!-- ╔═══════════════════════════════════════════════════════════╗ -->
+<!-- ║                 RPG CHARACTER CARD                        ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### ⚔️ Character Sheet
+## ⚔️ &nbsp; D E V E L O P E R &nbsp; C H A R A C T E R &nbsp; C A R D &nbsp; ⚔️
 
 </div>
 
-```yaml
-╔══════════════════════════════════════════════════════════╗
-║              DEVELOPER — PRIYABRATA SINGH                ║
-╠══════════════════════════════════════════════════════════╣
-║  Class    : Full-Stack Sorcerer                          ║
-║  Level    : ████████████░░░░  Ascending                  ║
-║  HP       : ██████████████████████  100/100              ║
-║  Mana     : ∞  (fueled by ☕ dark roast)                 ║
-╠══════════════════════════════════════════════════════════╣
-║  SKILLS                                                  ║
-║  ├─ JavaScript  ████████████████░░  90%                  ║
-║  ├─ TypeScript  ██████████████░░░░  80%                  ║
-║  ├─ React       ████████████████░░  88%                  ║
-║  ├─ Node.js     ███████████████░░░  85%                  ║
-║  ├─ Prisma      ████████████░░░░░░  75%                  ║
-║  └─ MySQL       ████████████░░░░░░  72%                  ║
-╠══════════════════════════════════════════════════════════╣
-║  PERKS                                                   ║
-║  [★] Quick Debugger   [★] API Architect                  ║
-║  [★] Side-Quest Champion   [★] Merge Conflict Survivor   ║
-╠══════════════════════════════════════════════════════════╣
-║  QUEST LOG                                               ║
-║  [✔] Survived merge conflicts                            ║
-║  [✔] Mastered the dark arts of async/await               ║
-║  [ ] Build something open-source & legendary             ║
-║  [ ] Achieve git push --force enlightenment              ║
-║  [ ] Ship a SaaS that pays for the coffee                ║
-╚══════════════════════════════════════════════════════════╝
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  ⚔  PRIYABRATA  SINGH  ·  CLASS: FULL-STACK  SORCERER  ⚔      ┃
+┃  ✦ alias: CodyBrat  ·  ✦ server: India  ·  ✦ guild: GitHub    ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                                                                ┃
+┃   ❤ HP       ████████████████████████  100 / 100              ┃
+┃   💜 MANA    ████████████████████████  ∞ (coffee-powered)     ┃
+┃   ⚡ XP      ████████████████░░░░░░░░  Ascending fast...      ┃
+┃                                                                ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃  ◈  S K I L L   T R E E                                       ┃
+┃                                                                ┃
+┃   JavaScript    ██████████████████░░  [LVL 9]  ★★★★★          ┃
+┃   TypeScript    ████████████████░░░░  [LVL 8]  ★★★★☆          ┃
+┃   React         ████████████████░░░░  [LVL 8]  ★★★★☆          ┃
+┃   Node.js       ███████████████░░░░░  [LVL 8]  ★★★★☆          ┃
+┃   Prisma        █████████████░░░░░░░  [LVL 7]  ★★★★☆          ┃
+┃   MySQL         ████████████░░░░░░░░  [LVL 6]  ★★★☆☆          ┃
+┃   Express       ███████████████░░░░░  [LVL 8]  ★★★★☆          ┃
+┃                                                                ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃  ◈  P A S S I V E   P E R K S                                  ┃
+┃                                                                ┃
+┃   [⚡] Quick Debugger     — spots bugs before coffee cools    ┃
+┃   [🏗] API Architect      — REST and beyond, no swagger       ┃
+┃   [🏆] Side-Quest Champ  — 17 unfinished projects & proud    ┃
+┃   [🧠] Async Whisperer   — callbacks? we don't do that here  ┃
+┃   [🔥] Merge Survivor    — lived through conflicts to tell it ┃
+┃                                                                ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃  ◈  A C T I V E   Q U E S T S                                  ┃
+┃                                                                ┃
+┃   [✔]  Survived 100+ merge conflicts without rage-quitting    ┃
+┃   [✔]  Mastered the dark arts of async/await & Promises       ┃
+┃   [✔]  Deployed first full-stack app to production            ┃
+┃   [◐]  Build something open-source & legendary   [60%]        ┃
+┃   [◐]  Reach git push --force enlightenment      [40%]        ┃
+┃   [ ]  Ship a SaaS that actually pays for coffee              ┃
+┃   [ ]  Write code so clean it makes seniors cry               ┃
+┃                                                                ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 ---
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<!-- ╔═══════════════════════════════════════════════════════════╗ -->
+<!-- ║                    TECH ARSENAL                           ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### 🛠️ Arsenal
+## 🛠️ &nbsp; T E C H &nbsp; A R S E N A L
 
-<!-- Frontend -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### ◈ Frontend Spells
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<!-- Backend -->
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### ◈ Backend Sorcery
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23FF6C37.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<!-- Tools -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### ◈ Weapons & Tools
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ═══════════════════ STATS ═══════════════════ -->
+<!-- ╔═══════════════════════════════════════════════════════════╗ -->
+<!-- ║                   GITHUB STATS                            ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### 📊 Mission Stats
-
-<img width="420" src="https://nirzak-streak-stats.vercel.app/?user=CodyBrat&theme=midnight-purple&hide_border=true&border_radius=12&background=0D0D1A&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" alt="GitHub Streak" />
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=CodyBrat&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&bg_color=0D0D1A&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&count_private=true" alt="GitHub Stats" />
-
-<img width="840" src="https://github-readme-activity-graph.vercel.app/graph?username=CodyBrat&theme=react-dark&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true&border_radius=12&custom_title=💻%20Contribution%20Activity" alt="Activity Graph"/>
-
-</div>
-
----
-
-<!-- ═══════════════════ CURRENT STATUS ═══════════════════ -->
-
-<div align="center">
-
-### 🎯 Current Status
-
-| 🔭 Working On | ⚡ Learning | 🌱 Exploring | 💡 Ask Me About |
-|:---:|:---:|:---:|:---:|
-| Side projects that haunt me | System design | Open-source contribution | JS/TS, APIs, Prisma |
-
-</div>
-
----
-
-<!-- ═══════════════════ PHILOSOPHY ═══════════════════ -->
-
-<div align="center">
-
-> *"Any fool can write code that a computer can understand.*  
-> *Good programmers write code that humans can understand."*  
-> — Martin Fowler
+## 📊 &nbsp; M I S S I O N &nbsp; S T A T S
 
 <br/>
 
-**The real bugs were the ones we made along the way.** 🐞
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=CodyBrat&show_icons=true&count_private=true&hide_border=true&bg_color=0D0818&title_color=c4b5fd&icon_color=7c3aed&text_color=e2e8f0&ring_color=7c3aed&border_radius=16" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodyBrat&layout=compact&hide_border=true&bg_color=0D0818&title_color=c4b5fd&text_color=e2e8f0&border_radius=16&langs_count=8" />
+
+<br/>
+
+<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=CodyBrat&hide_border=true&border_radius=16&background=0D0818&stroke=7c3aed&ring=c4b5fd&fire=f59e0b&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=9ca3af&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodyBrat&theme=react-dark&bg_color=0d0818&color=c4b5fd&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&border_radius=16&custom_title=⚡%20Contribution%20Timeline" />
+
+</div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's+Build+Something+Legendary&fontSize=22&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" />
+<!-- ╔═══════════════════════════════════════════════════════════╗ -->
+<!-- ║              ACHIEVEMENTS / TROPHIES                      ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 🏆 &nbsp; T R O P H I E S
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=CodyBrat&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
+</div>
+
+---
+
+<!-- ╔═══════════════════════════════════════════════════════════╗ -->
+<!-- ║               CURRENT GRIND + VIBE                        ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 🎯 &nbsp; C U R R E N T &nbsp; G R I N D
+
+</div>
+
+| &nbsp; | Status | Details |
+|:---:|:---:|:---|
+| 🔭 | **Building** | Side projects that haunt me at 2AM |
+| 🌱 | **Learning** | System design, scalable architectures |
+| 🤝 | **Open to** | Collabs, open-source, cool ideas |
+| 💬 | **Ask me** | JS / TS / React / Node / Prisma / APIs |
+| ⚡ | **Fun fact** | I close 90 browser tabs and still need more |
+| 🎵 | **Vibe** | Lo-fi hip hop & dark mode everything |
+
+---
+
+<!-- ╔═══════════════════════════════════════════════════════════╗ -->
+<!-- ║                     QUOTE + FOOTER                        ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<br/>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Any+fool+can+write+code+that+a+computer+can+understand.+Good+programmers+write+code+that+humans+can+understand.&author=Martin+Fowler)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br/>
+
+```
+         ／|、
+        (˚ˎ 。7          You've reached the end of my README.
+         |、˜〵           Nothing to see here. Go build something.
+         じしˍ,)ノ        Or star a repo. That works too. ⭐
+```
+
+<br/>
+
+**— Priyabrata Singh · The real bugs were the ones we made along the way 🐞 —**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1a0533,70:2d1b69,100:0a0a0f&height=140&section=footer&text=Let's%20build%20something%20legendary%20together&fontSize=20&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn&desc=Open%20to%20collabs%20·%20DMs%20open%20·%20Always%20building&descSize=13&descColor=6d28d9&descAlignY=85" />
 
 </div>
