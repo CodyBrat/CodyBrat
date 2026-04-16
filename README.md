@@ -1,3 +1,12 @@
+<a href="https://github.com/CodyBrat/CodyBrat">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+    <img alt="Priyabrata Singh's GitHub Profile README" src="./light_mode.svg">
+  </picture>
+</a>
+
+---
+
 # Priyabrata Singh · `CodyBrat`
 
 > *"Ship it. Break it. Fix it. Ship it again."*
