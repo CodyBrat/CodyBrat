@@ -76,8 +76,8 @@ I’m a **Full-Stack Developer** based in India 🇮🇳 who thrives at the inte
 
 <table border="0">
   <tr>
-    <td><!-- User: Insert Repo Card 1 here --></td>
-    <td><!-- User: Insert Repo Card 2 here --></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodyBrat&repo=askmynotesmavericks&theme=tokyonight&border_radius=10&bg_color=1a1a1a&title_color=00FFE0" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodyBrat&repo=reunify&theme=tokyonight&border_radius=10&bg_color=1a1a1a&title_color=8c52ff" /></td>
   </tr>
 </table>
 
@@ -95,13 +95,6 @@ I’m a **Full-Stack Developer** based in India 🇮🇳 who thrives at the inte
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 <br/>
-
-### Support Me ☕
-
-<a href="https://www.buymeacoffee.com/codybrat"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=codybrat&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-
-<br/>
-
 <!-- 🏁 Footer Banner -->
 <img src="https://i.pinimg.com/originals/b5/32/56/b53256abdcbd862e46c89cb5dfeff8c6.gif" width="100%" />
 
