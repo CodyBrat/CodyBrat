@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🚩 Cinematic Header -->
-<img src="[https://i.pinimg.com/originals/6c/60/bf/6c60bff8cb2a5e4222bbf54cce2b5c38.gif](https://i.pinimg.com/originals/74/63/d7/7463d78d184c43bb878ee9b63d5e8652.gif)" width="100%" />
+<img src="https://i.pinimg.com/originals/6c/60/bf/6c60bff8cb2a5e4222bbf54cce2b5c38.gif](https://i.pinimg.com/originals/74/63/d7/7463d78d184c43bb878ee9b63d5e8652.gif" width="100%" />
 
 <br/>
 
