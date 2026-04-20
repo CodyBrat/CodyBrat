@@ -103,6 +103,6 @@ I’m a **Full-Stack Developer** based in India 🇮🇳 who thrives at the inte
 <br/>
 
 <!-- 🏁 Footer Banner -->
-<img src="https://i.pinimg.com/originals/ab/10/6d/ab106dd86f4691e3a56ac84621144d1d.gif" width="100%" />
+<img src="https://i.pinimg.com/originals/b5/32/56/b53256abdcbd862e46c89cb5dfeff8c6.gif" width="100%" />
 
 </div>
