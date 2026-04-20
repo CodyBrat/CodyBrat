@@ -33,7 +33,7 @@ I’m a **Full-Stack Developer** based in India 🇮🇳 who thrives at the inte
     </td>
     <td width="40%">
       <!-- User: Insert your character/coding GIF here -->
-      <img src="https://i.pinimg.com/originals/a9/93/97/a99397c903fb376ef86ee7015505493c.gif" width="100%" />
+      <img src="https://i.pinimg.com/originals/73/63/3f/73633fbb5a6fb64fa41ae315ba897d97.gif" width="100%" />
     </td>
   </tr>
 </table>
