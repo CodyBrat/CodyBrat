@@ -1,89 +1,108 @@
 <div align="center">
 
-<!-- Banner -->
+<!-- 🚩 Cinematic Header -->
 <img src="https://i.pinimg.com/originals/6c/60/bf/6c60bff8cb2a5e4222bbf54cce2b5c38.gif" width="100%" />
 
 <br/>
 
-<!-- Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=900&lines=Priyabrata+Singh+⚡;Full-Stack+Architect;React+%7C+Node+%7C+TypeScript;Building+the+Future+of+Web;Ship+Fix+Repeat+🚀" />
+# ⚡ Engineering Scalable Experiences
 
-<p align="center">
-  <a href="https://github.com/CodyBrat">
-    <img src="https://img.shields.io/github/followers/CodyBrat?label=Followers&style=for-the-badge&color=00FFE0&labelColor=1a1a1a" />
-  </a>
-  <a href="https://github.com/CodyBrat?tab=repositories">
-    <img src="https://img.shields.io/github/stars/CodyBrat?label=Total%20Stars&style=for-the-badge&color=8c52ff&labelColor=1a1a1a" />
-  </a>
+I’m a **Full-Stack Developer** based in India 🇮🇳 who thrives at the intersection of design and complex logic. My mission is to build digital products that aren't just functional, but architecturally sound and delightful to use. I treat every project as a balance between performance, scalability, and an obsession with clean code.
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodyBrat&label=DIGITAL%20IMPRINTS&color=00FFE0&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/CodyBrat?label=STRENGTH&color=8c52ff&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/CodyBrat?label=NETWORK&color=00FFE0&style=flat-square" />
+</div>
+
+---
+
+### 🧠 The Dev Persona
+
+<table border="0">
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🚀 Currently architecting high-performance full-stack ecosystems.</li>
+        <li>🧩 Problem solver focused on <b>System Resilience</b> and <b>Distributed Data</b>.</li>
+        <li>⚛️ Specialist in building <b>Modern Interfaces</b> with a focus on performance.</li>
+        <li>🛠️ Proficient in crafting robust APIs and cloud-ready architectures.</li>
+        <li>🎨 Obsessed with <b>Micro-interactions</b> and <b>Design Systems</b>.</li>
+        <li>💡 Believer in <b>"Ship Fast, Iterate Smarter"</b>.</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <!-- User: Insert your character/coding GIF here -->
+      <img src="https://i.pinimg.com/originals/a9/93/97/a99397c903fb376ef86ee7015505493c.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
+### 🛰️ Digital Coordinates
+
+<p align="left">
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="35"/></a>
+  <a href="https://linkedin.com/in/codybrat"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35"/></a>
+  <a href="https://twitter.com/codybrat"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="35"/></a>
+  <a href="https://instagram.com/codybrat"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="35"/></a>
 </p>
 
 ---
 
-### 💫 About Me
-
-I'm a **Full-Stack Developer** from India 🇮🇳 passionate about building scalable, production-ready applications. I thrive in the intersection of design and performance, crafting seamless user experiences with robust backend architectures.
-
-> *“Build fast. Break smart. Scale better.”*
-
-<br/>
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,nodejs,express,prisma,mysql,mongodb,git,vscode,postman,vercel,figma&perline=9" />
-  </a>
-</p>
-
-<br/>
-
-### 📊 Performance Metrics
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=CodyBrat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodyBrat&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/></td>
-    </tr>
-  </table>
-  <img src="https://streak-stats.demolab.com?user=CodyBrat&theme=tokyonight&hide_border=true&background=00000000" width="100%"/>
-</div>
+
+### 📊 Github Status
+
+<table border="0">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=CodyBrat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a1a&title_color=00FFE0&text_color=ffffff" height="165" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodyBrat&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a1a&title_color=8c52ff&text_color=ffffff" height="165"/></td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=CodyBrat&theme=tokyonight&hide_border=true&background=1a1a1a&stroke=00FFE0&ring=8c52ff&fire=8c52ff" width="60%"/>
 
 <br/>
 
-### 🐍 Contribution Journey
-
-<div align="center">
-  <img src="https://github.com/CodyBrat/CodyBrat/blob/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
-
-<br/>
-
-### 🤝 Connect With Me
+### 🛠️ Modern Tech Stack & Architectural Tools
 
 <p align="center">
-<a href="https://linkedin.com/in/codybrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codybrat" height="30" width="40" /></a>
-<a href="https://twitter.com/codybrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-lite.svg" alt="codybrat" height="30" width="40" /></a>
-<a href="https://instagram.com/codybrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codybrat" height="30" width="40" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,prisma,mysql,mongodb,git,github,vscode,postman,vercel,figma,html,css,bootstrap,npm,bash,c,cpp,py&perline=12" />
 </p>
 
 <br/>
 
-### 🧠 Dev Philosophy
+### ⭐ Spotlight Projects
 
-```js
-while(alive) {
-  build();
-  breakThings();
-  debug();
-  ship();
-}
-```
+<table border="0">
+  <tr>
+    <td><!-- User: Insert Repo Card 1 here --></td>
+    <td><!-- User: Insert Repo Card 2 here --></td>
+  </tr>
+</table>
+
+<br/>
+
+### 💻 Core Technologies
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%231a1a1a.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+<br/>
+
+### Support Me ☕
+
+<a href="https://www.buymeacoffee.com/codybrat"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=codybrat&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+<br/>
+
+<!-- 🏁 Footer Banner -->
+<img src="https://i.pinimg.com/originals/ab/10/6d/ab106dd86f4691e3a56ac84621144d1d.gif" width="100%" />
 
 </div>
