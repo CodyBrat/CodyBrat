@@ -5,7 +5,7 @@
 
 <br/>
 
-# ⚡ Engineering Scalable Experiences
+#  Engineering Scalable Experiences
 
 I’m a **Full-Stack Developer** based in India 🇮🇳 who thrives at the intersection of design and complex logic. My mission is to build digital products that aren't just functional, but architecturally sound and delightful to use. I treat every project as a balance between performance, scalability, and an obsession with clean code.
 
@@ -17,7 +17,7 @@ I’m a **Full-Stack Developer** based in India 🇮🇳 who thrives at the inte
 
 ---
 
-### 🧠 The Dev Persona
+###  The Dev Persona
 
 <table border="0">
   <tr>
@@ -51,7 +51,7 @@ I’m a **Full-Stack Developer** based in India 🇮🇳 who thrives at the inte
 
 <div align="center">
 
-### 📊 Github Status
+###  Github Status
 
 <table border="0">
   <tr>
@@ -64,7 +64,7 @@ I’m a **Full-Stack Developer** based in India 🇮🇳 who thrives at the inte
 
 <br/>
 
-### 🛠️ Modern Tech Stack & Architectural Tools
+###  Modern Tech Stack & Architectural Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,prisma,mysql,mongodb,git,github,vscode,postman,vercel,figma,html,css,bootstrap,npm,bash,c,cpp,py&perline=12" />
@@ -72,7 +72,7 @@ I’m a **Full-Stack Developer** based in India 🇮🇳 who thrives at the inte
 
 <br/>
 
-### ⭐ Spotlight Projects
+###  Spotlight Projects
 
 <table border="0">
   <tr>
@@ -83,7 +83,7 @@ I’m a **Full-Stack Developer** based in India 🇮🇳 who thrives at the inte
 
 <br/>
 
-### 💻 Core Technologies
+###  Core Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
