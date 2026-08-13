@@ -51,19 +51,6 @@ I’m a **Full-Stack Developer** based in India 🇮🇳 who thrives at the inte
 
 <div align="center">
 
-###  Github Status
-
-<table border="0">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=CodyBrat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a1a&title_color=00FFE0&text_color=ffffff" height="165" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodyBrat&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a1a&title_color=8c52ff&text_color=ffffff" height="165"/></td>
-  </tr>
-</table>
-
-<img src="https://streak-stats.demolab.com?user=CodyBrat&theme=tokyonight&hide_border=true&background=1a1a1a&stroke=00FFE0&ring=8c52ff&fire=8c52ff" width="60%"/>
-
-<br/>
-
 ###  Modern Tech Stack & Architectural Tools
 
 <p align="center">
