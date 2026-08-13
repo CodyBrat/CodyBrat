@@ -38,19 +38,6 @@ I’m a **Full-Stack Developer** based in India 🇮🇳 who thrives at the inte
   </tr>
 </table>
 
-### 🛰️ Digital Coordinates
-
-<p align="left">
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="35"/></a>
-  <a href="https://linkedin.com/in/codybrat"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35"/></a>
-  <a href="https://twitter.com/codybrat"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="35"/></a>
-  <a href="https://instagram.com/codybrat"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="35"/></a>
-</p>
-
----
-
-<div align="center">
-
 ###  Modern Tech Stack & Architectural Tools
 
 <p align="center">
@@ -59,16 +46,6 @@ I’m a **Full-Stack Developer** based in India 🇮🇳 who thrives at the inte
 
 <br/>
 
-###  Spotlight Projects
-
-<table border="0">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodyBrat&repo=askmynotesmavericks&theme=tokyonight&border_radius=10&bg_color=1a1a1a&title_color=00FFE0" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodyBrat&repo=reunify&theme=tokyonight&border_radius=10&bg_color=1a1a1a&title_color=8c52ff" /></td>
-  </tr>
-</table>
-
-<br/>
 
 ###  Core Technologies
 
